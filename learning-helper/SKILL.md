@@ -70,6 +70,7 @@ project-root/
 ## Cheat Sheet 排版规范（固定标准）
 
 所有 cheat sheet 遵循统一排版，只有页数由用户每次指定。
+**禁止 Unicode 数学符号，必须使用 Pandoc 处理latex 转换成OMML***
 
 **页面设置**：
 - A4 (21.0 × 29.7 cm)
